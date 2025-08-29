@@ -9141,7 +9141,7 @@
                     "size": 105608431
                 },
                 {
-                    "version": "26.5.7",
+                    "version": "26.5.7-Pro",
                     "date": "2025-01-03",
                     "fullDate": "20250103153217",
                     "localizedDescription": "Injected with Pro",
@@ -9149,7 +9149,7 @@
                     "size": 109293044
                 },
                 {
-                    "version": "26.5.7",
+                    "version": "26.5.7-Premium",
                     "date": "2024-12-27",
                     "fullDate": "20241227045552",
                     "localizedDescription": "Injected with Premium",
@@ -45741,7 +45741,7 @@
             "tintColor": "#343a40",
             "versions": [
                 {
-                    "version": "1.6.3",
+                    "version": "1.6.3-Pro",
                     "date": "2025-02-08",
                     "fullDate": "20250208010453",
                     "localizedDescription": "Injected with Pro",
@@ -45749,7 +45749,7 @@
                     "size": 33742054
                 },
                 {
-                    "version": "1.6.3",
+                    "version": "1.6.3-Subs",
                     "date": "2024-12-13",
                     "fullDate": "20241213071423",
                     "localizedDescription": "Injected with Subscription Unlocked",
