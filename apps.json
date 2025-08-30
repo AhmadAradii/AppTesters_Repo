@@ -12793,7 +12793,7 @@
                     "size": 54617394
                 },
                 {
-                    "version": "379.0.0",
+                    "version": "379.0.0-Threads",
                     "date": "2025-05-19",
                     "fullDate": "20250519164235",
                     "localizedDescription": "Injected with Mods",
@@ -12817,7 +12817,7 @@
                     "size": 49560314
                 },
                 {
-                    "version": "379.0.0",
+                    "version": "379.0.0-Saver",
                     "date": "2025-05-05",
                     "fullDate": "20250505205356",
                     "localizedDescription": "Injected with Saver",
